@@ -1,0 +1,4 @@
+baseURL = 'https://morebaconstrips.github.io/'
+languageCode = 'en-us'
+title = 'Gabriele Abbate'
+theme = 'hugo-theme-hello-friend-ng'

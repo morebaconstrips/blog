@@ -1,0 +1,4 @@
+[submodule "portfolio/public"]
+	path = portfolio/public
+	url = https://github.com/morebaconstrips/morebaconstrips.github.io
+	branch = main
